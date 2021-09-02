@@ -1,0 +1,2 @@
+This program only takes Place command at the start and only then takes other command MOVE, LEFT,RIGHT and REPORT
+PLACE will initiate the program and REPORT will provide the location of the robot as per the sequence of instructionins
